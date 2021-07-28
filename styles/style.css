@@ -89,3 +89,43 @@ top: 153px;
     Width:300px; 
     Height:256px;
  }
+
+ /*-------------------------
+  footer section styles
+ --------------------------- */
+ .footer-section{
+   
+    left: 475px;
+    top: 3474px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    margin-bottom: 50px;
+    
+ }
+ .footer-section .footer-image img{
+    height: 110px;
+    width: 483.87103271484375px;
+
+    
+    
+ }
+ .footer-logo{
+    height: 32px;
+    width: 170px;
+    left: 156.93551635742188px;
+    top: 130px;
+    border-radius: 0px;
+    
+ }
+ .fab{
+    height: 32px;
+    width: 30px;
+    font-size: 30px;
+    margin-left: 8px;
+    
+    
+ }
